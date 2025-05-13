@@ -21,19 +21,23 @@
 
 ### 🧰 Languages and Tools
 
-
+<p>
+  
   <a href="https://aws.amazon.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/></a>
   <a href="https://www.python.org" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/plasticine/100/bash.png" alt="bash"/></a>
   <a href="https://git-scm.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/></a>
-
-  
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /></a>
-  <a href="https://www.powerbi.com/" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
-  <a href="https://www.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Pentaho-20334c?style=for-the-badge&logo=dataiku&logoColor=white" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-filled-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-filled-tal-revivo"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/></a>
+  <a href="https://www.powerbi.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo"/></a>
+  <a href="https://www.oracle.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/></a>
   
 </p>
 
