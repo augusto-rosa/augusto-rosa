@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Augusto Roosa</h1>
-<h3 align="center">Aspiring Data Engineer | Passionate about turning data into insights 🚀</h3>
+<h1 align="center">Hi 👋, I'm Augusto Rosa</h1>
+<h3 align="center">Data Engineer & Data Analyst | Passionate about data and building real-world solutions 🚀</h3>
 
-- 🎓 International student in Canada
-- 🔭 Currently working on a **Data Mart project** about Flamengo FC using Azure tools
-- 🌱 I’m currently learning **Azure Data Factory**, **Databricks**, and **SSIS**
-- 👯 Looking to collaborate on **ETL pipelines**, **Cloud Data Solutions**, and **Data Modeling**
-- 📫 How to reach me: **augustorosa.dev@gmail.com**
-- 📄 [Check my Resume](#) <!-- você pode colocar um link do seu currículo se quiser -->
+Bio
+- 🎓 International student in Canada 🇨🇦 
+- 🌐 Skilled in Cloud Platforms: AWS & Azure
+- 🎯 Learning every day about Cloud Data Engineering and Analytics
+- 👯 Interested in building scalable data pipelines, cloud-based analytics, and BI solutions
+- 📫 How to reach me: **canaugros@gmail.com**
 
 ---
 
@@ -35,6 +35,10 @@
 ---
 
 ### 🌍 Let's Connect
+
+<a href="https://www.linkedin.com/in/canaugros/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+</a>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/augusto-roosa/" target="_blank">
