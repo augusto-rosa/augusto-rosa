@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Augusto Rosa</h1>
-<h3 align="center">Data Engineer & Data Analyst | Passionate about data and building real-world solutions 🚀</h3>
+<h3 align="center">Data Engineer & Analyst (BI/ETL) | Passionate about data and building real-world solutions 🚀</h3>
 
 **Bio**
 - 🎓 International student in Canada <a href="https://www.canada.ca" target="_blank"><img width="20" height="20" src="https://img.icons8.com/emoji/48/canada-emoji.png" alt="canada-emoji"/></a> 
@@ -58,10 +58,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/canaugros/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
   </a>
   &nbsp;
-  <a href="mailto:augustorosa.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:canaugros@gmail.com">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail-new"/>
   </a>
 </p>
