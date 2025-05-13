@@ -39,7 +39,6 @@
   <a href="https://www.postgresql.org/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/></a>
   <a href="https://www.oracle.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/></a>
   <a href="https://www.powerbi.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/></a>
-  <a href="https://www.tableau.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/></a>
   
 </p>
 
