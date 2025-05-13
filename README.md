@@ -2,7 +2,7 @@
 <h3 align="center">Data Engineer & Analyst (BI/ETL) | Passionate about data and building real-world solutions 🚀</h3>
 
 **Bio**
-- 🎓 International student in Canada <a href="https://www.canada.ca" target="_blank"><img width="20" height="20" src="https://img.icons8.com/emoji/48/canada-emoji.png" alt="canada-emoji"/></a> 
+- 🎓 Brazilian in the land of maple syrup 🇧🇷🍁🇨🇦
 - 🌐 Skilled in Cloud Platforms: AWS & Azure
 - 🎯 Learning every day about Cloud Data Engineering and Analytics
 - 📫 How to reach me: **canaugros@gmail.com**
