@@ -33,11 +33,13 @@
   <a href="https://www.linux.org/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/></a>
   <a href="https://www.docker.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/></a>
+  <a href="https://neo4j.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-neo4j-a-graph-database-management-system-developed-logo-shadow-tal-revivo.png" alt="external-neo4j-a-graph-database-management-system-developed-logo-shadow-tal-revivo"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/></a>
-  <a href="https://www.powerbi.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/></a>
   <a href="https://www.oracle.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/></a>
+  <a href="https://www.powerbi.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/></a>
+  <a href="https://www.tableau.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/></a>
   
 </p>
 
