@@ -1,19 +1,28 @@
 <h1 align="center">Hi 👋, I'm Augusto Rosa</h1>
 <h3 align="center">Data Engineer & Data Analyst | Passionate about data and building real-world solutions 🚀</h3>
 
-Bio
+**Bio**
 - 🎓 International student in Canada 🇨🇦 
 - 🌐 Skilled in Cloud Platforms: AWS & Azure
 - 🎯 Learning every day about Cloud Data Engineering and Analytics
-- 👯 Interested in building scalable data pipelines, cloud-based analytics, and BI solutions
 - 📫 How to reach me: **canaugros@gmail.com**
+
+**Community**
+
+👯 Interested in building scalable data pipelines, cloud-based analytics, and BI solutions
+
+👨‍💻 All of my projects are available at https://github.com/augusto-rosa/Portfolio
+
+📝 Know about my experiences on https://www.linkedin.com/in/canaugros/
+
+💬 Ask me about Data Engineering, Python, SQL, ETL, Cloud Platforms, Data Analyst.
 
 ---
 
 ### 🧰 Languages and Tools
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://www.python.org" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /></a>
   <a href="https://www.powerbi.com/" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
@@ -39,11 +48,6 @@ Bio
 <a href="https://www.linkedin.com/in/canaugros/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/augusto-roosa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:augustorosa.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
