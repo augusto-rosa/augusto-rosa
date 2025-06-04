@@ -5,7 +5,7 @@
 - 🎓 Brazilian in the land of maple syrup 🇧🇷🍁🇨🇦
 - 🌐 Skilled in Cloud Platforms: AWS & Azure
 - 🎯 Learning every day about Cloud Data Engineering and Analytics
-- 📫 How to reach me: **canaugros@gmail.com**
+- 📫 How to reach me: **august.rosa@hotmail.com**
 
 **Community**
 
