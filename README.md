@@ -27,12 +27,12 @@
   <a href="https://azure.microsoft.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/></a>
   <a href="https://www.python.org" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/></a>
-  <a href="https://www.databricks.com/" target="_blank"><img width="48" height="48" src="https://cdn.brandfetch.io/idSUrLOWbH/w/800/h/840/theme/dark/symbol.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Databricks"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/plasticine/100/bash.png" alt="bash"/></a>
   <a href="https://git-scm.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/></a>
   <a href="https://www.jenkins.io/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/></a>
   <a href="https://www.linux.org/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/></a>
   <a href="https://www.docker.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/></a>
+    <a href="https://www.databricks.com/" target="_blank"><img width="48" height="48" src="https://cdn.brandfetch.io/idSUrLOWbH/w/800/h/840/theme/dark/symbol.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Databricks"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/></a>
   <a href="https://neo4j.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-neo4j-a-graph-database-management-system-developed-logo-shadow-tal-revivo.png" alt="external-neo4j-a-graph-database-management-system-developed-logo-shadow-tal-revivo"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/></a>
