@@ -40,7 +40,7 @@
   <a href="https://www.oracle.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/></a>
   <a href="https://www.powerbi.com/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/></a>
   
-  <a href="https://www.databricks.com/" target="_blank"><img width="48" height="48" src="imagens/dbrx-color.png" alt="dbrx-logo"/></a>
+  <a href="https://www.databricks.com/" target="_blank"><img width="48" height="48" src="Downloads/dbrx-color.png" alt="dbrx-logo"/></a>
   
 </p>
 
